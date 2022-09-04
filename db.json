@@ -1,0 +1,29 @@
+{
+  "getAll": [
+    {
+      "id": 2,
+      "firstName": "duong1",
+      "lastName": "nguyen"
+    },
+    {
+      "id": 3,
+      "firstName": "duong123",
+      "lastName": "duong"
+    },
+    {
+      "id": 4,
+      "firstName": "duong",
+      "lastName": "nguyen"
+    },
+    {
+      "id": 5,
+      "firstName": "hai",
+      "lastName": "nguyen"
+    },
+    {
+      "id": 6,
+      "firstName": "chung",
+      "lastName": "nguyen"
+    }
+  ]
+}
